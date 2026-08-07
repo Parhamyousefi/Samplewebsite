@@ -1,0 +1,6 @@
+{
+  "name": "لوازم یدکی دین محمدی | Din Mohammadi Auto Parts",
+  "description": "فروشگاه تخصصی و آنلاین لوازم یدکی خودرو دین محمدی - استعلام قیمت و موجودی قطعات، جستجوی فنی و پنل مدیریت پیشرفته",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
